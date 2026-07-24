@@ -1,0 +1,6 @@
+alice_duplicate.txt is a duplicate of alice.txt
+bob_duplicate.txt is a duplicate of bob.txt
+
+Files Processed : 5
+Duplicate Files : 2
+Files Backed Up : 3
